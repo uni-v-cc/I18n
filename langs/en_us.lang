@@ -413,7 +413,6 @@ creatorDash.editPackageFlow.ageRating=Age Rating: {0}
 creatorDash.editPackageFlow.ageRatingOptions.0=Safe
 creatorDash.editPackageFlow.ageRatingOptions.1=Mature
 creatorDash.editPackageFlow.ageRatingOptions.2=Adult
-creatorDash.editPackageFlow.selectProductLink=Use this Product
 creatorDash.products.alternacy=Visible:
 creatorDash.products.primary=Yes
 creatorDash.products.primaryDesc=This link will be visible when selecting this distro.

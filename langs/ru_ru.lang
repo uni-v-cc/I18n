@@ -413,7 +413,6 @@ creatorDash.editPackageFlow.ageRating=Возрастной рейтинг: {0}
 creatorDash.editPackageFlow.ageRatingOptions.0=Безопасный
 creatorDash.editPackageFlow.ageRatingOptions.1=Для взрослых
 creatorDash.editPackageFlow.ageRatingOptions.2=18+
-creatorDash.editPackageFlow.selectProductLink=Использовать
 creatorDash.products.alternacy=Видимый:
 creatorDash.products.primary=Да
 creatorDash.products.primaryDesc=Эта связь будет отображаться в активации ключа.
