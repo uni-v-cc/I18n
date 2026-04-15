@@ -249,7 +249,7 @@ dashboard.vccExtraRepos.unlockMorePrivate.2=Consider supporting the project on {
 dashboard.language=Select language
 dashboard.language.apply=Apply
 dashboard.language.contributors={0} Contributors:
-dashboard.language.contribute=You can help translating Uni-VCC!
+dashboard.language.contribute=You can help translate Uni-VCC!
 
 #####################
 # Creator Dashboard #
