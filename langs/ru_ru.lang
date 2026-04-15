@@ -1,4 +1,6 @@
 #lang:ru_ru
+#name:Русский (Россия)
+#en_name:Russian (Russia)
 
 root.translators=Zeitheron
 root.timeLocale=ru-RU

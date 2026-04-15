@@ -1,4 +1,6 @@
 #lang:en_us
+#name:English (United States)
+#en_name:English (United States)
 
 root.translators=Zeitheron
 root.timeLocale=en-US
