@@ -248,6 +248,7 @@ r!dashboard.vccExtraRepos.unlockMorePrivate.2=Поддержите проект 
 dashboard.language=Выбор языка
 dashboard.language.apply=Применить
 dashboard.language.contributors=Авторы {0}:
+dashboard.language.contribute=Вы можете помочь перевести Uni-VCC!
 
 #####################
 # Creator Dashboard #
