@@ -84,6 +84,7 @@ root.tos=Условия обслуж.
 viewCreator.projects=Пакеты:
 viewCreator.badges.admin=Администратор
 viewCreator.badges.supporter=Спонсор
+viewCreator.badges.translator=Переводчик
 
 ##################
 # Package Viewer #
