@@ -1,6 +1,6 @@
 #lang:en_us
-#name:English (United States)
-#en_name:English (United States)
+#name:English
+#en_name:English
 
 root.translators=Zeitheron
 root.timeLocale=en-US
@@ -247,6 +247,7 @@ dashboard.vccExtraRepos.unlockMorePrivate.1=Want to unlock more?
 dashboard.vccExtraRepos.unlockMorePrivate.2=Consider supporting the project on {0} to unlock up to {1} private repositories!
 dashboard.language=Select language
 dashboard.language.apply=Apply
+dashboard.language.contributors={0} Contributors:
 
 #####################
 # Creator Dashboard #
