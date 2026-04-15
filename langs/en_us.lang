@@ -257,7 +257,6 @@ dashboard.language.contribute=You can help translating Uni-VCC!
 creatorDash.packageListed=✔ LISTED
 creatorDash.packageUnListed=✗ UNLISTED
 creatorDash.packageCreated=Package created successfully!
-creatorDash.title=Creator Dash
 creatorDash.newPackage=New Package...
 creatorDash.manageConnections=Marketplaces
 creatorDash.branding=Branding
