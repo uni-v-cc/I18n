@@ -252,6 +252,8 @@ dashboard.language=Выбор языка
 dashboard.language.apply=Применить
 dashboard.language.contributors=Авторы {0}:
 dashboard.language.contribute=Вы можете помочь перевести Uni-VCC!
+dashboard.tokenResetDesc1=Сброс токена сделает его недействительным и не позволит использовать его в VCC.
+dashboard.tokenResetDesc2=Вам придётся заново добавить репозиторий в VCC.
 
 #####################
 # Creator Dashboard #

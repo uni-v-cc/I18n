@@ -252,6 +252,8 @@ dashboard.language=Select language
 dashboard.language.apply=Apply
 dashboard.language.contributors={0} Contributors:
 dashboard.language.contribute=You can help translate Uni-VCC!
+dashboard.tokenResetDesc1=Resetting the token will invalidate it and prevent from being used in VCC.
+dashboard.tokenResetDesc2=You will have to re-add the VCC repository again.
 
 #####################
 # Creator Dashboard #
