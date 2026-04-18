@@ -57,7 +57,6 @@ wip=В разработке...
 ################
 # Sign In Flow #
 ################
-root.signIn=Авторизация
 root.limitedAccountCreation=Создание новых аккаунтов временно отключено.
 signIn.title=Авторизация
 signIn.with=Авторизоваться через
@@ -69,7 +68,6 @@ signIn.recent=НЕДАВНЕЕ
 #############
 # Main Page #
 #############
-root.title=Домашняя страница
 root.welcome=Единый репозиторий для предоставления пакетов в VRChat Creator Companion.
 root.preLearn=Исследуйте, как работает Uni-VCC!
 root.learn=Учебные ресурсы
@@ -170,7 +168,6 @@ r!search.createdBy=Автор {0}
 #############
 # Dashboard #
 #############
-dashboard.title=Панель управления
 dashboard.tabs.userSettings=Настройки пользователя
 dashboard.tabs.vpmSettings=VCC Репозиторий
 dashboard.tabs.creatorSettings=Настройки креатора

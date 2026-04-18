@@ -57,7 +57,6 @@ wip=Work in progress...
 ################
 # Sign In Flow #
 ################
-root.signIn=Sign In
 root.limitedAccountCreation=Account creation is temporarily disabled.
 signIn.title=Sign In
 signIn.with=Sign In With
@@ -69,7 +68,6 @@ signIn.recent=RECENT
 #############
 # Main Page #
 #############
-root.title=Home Page
 root.welcome=The united repository for delivering packages into VRChat Creator Companion.
 root.preLearn=Feel free to learn how Uni-VCC works!
 root.learn=Learn Resources
@@ -170,7 +168,6 @@ r!search.createdBy=Created by {0}
 #############
 # Dashboard #
 #############
-dashboard.title=Dashboard
 dashboard.tabs.userSettings=User Settings
 dashboard.tabs.vpmSettings=VCC Repository
 dashboard.tabs.creatorSettings=Creator Settings
