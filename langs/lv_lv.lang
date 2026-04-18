@@ -34,6 +34,7 @@ popup.error=Kļūda
 popup.unknownError=Nezināma kļūda
 popup.success=Veiksmīgs
 popup.cancel=Atcelt
+popup.confirm=Apstiprināt
 popup.disconnect=Atvienot
 popup.suspend=Pārtraukt
 popup.reset=Restartēt
@@ -55,7 +56,6 @@ wip=Darbs procesā...
 ################
 # Sign In Flow #
 ################
-root.signIn=Autorizēties
 root.limitedAccountCreation=Konta reģistrācija ir pagaidām apturēta.
 signIn.title=Autorizēties
 signIn.with=Autorizēties caur
@@ -67,7 +67,6 @@ signIn.recent=Nesen
 #############
 # Main Page #
 #############
-root.title=Mājas lapa
 root.welcome=Vienots repozitorijs pakotņu piegādei programmā VRChat Creator Companion.
 root.preLearn=Uzzini, kā darbojas Uni-VCC!
 root.learn=Mācību materiāli
@@ -168,7 +167,6 @@ r!search.createdBy=Izveidots ar {0}
 #############
 # Dashboard #
 #############
-dashboard.title=Vadības panelis
 dashboard.tabs.userSettings=Lietotāja iestatījumi
 dashboard.tabs.vpmSettings=VCC repozitorijs
 dashboard.tabs.creatorSettings=Autora iestatījumi
@@ -245,7 +243,7 @@ dashboard.vccExtraRepos.repoIsolationWarningTitle=Izolēts repozitorijs
 dashboard.vccExtraRepos.repoIsolationWarningDesc=Šis repozitorijs pašlaik ir izolācijas režīmā. Oriģinālais repozitorijs var būt kompromitēts un/vai īslaicīgi nepieejams.
 dashboard.vccExtraRepos.repoIsolationWarningDesc2=Uni-VCC aizsargā jūs, pagaidām apkalpojot arhivēto oriģinālo repozitoriju no mūsu serveriem. Jums nav jāveic nekādas papildu darbības, un jūs varat turpināt izmantot repozitoriju kā parasti.
 dashboard.vccExtraRepos.unlockMorePrivate.1=Vēlaties atslēgt vairāk?
-dashboard.vccExtraRepos.unlockMorePrivate.2=Apsveriet atbalstīt projektu {0}, lai atslēgtu līdz {1} privātajiem repozitorijiem!
+r!dashboard.vccExtraRepos.unlockMorePrivate.2=Apsveriet atbalstīt projektu {0}, lai atslēgtu līdz {1} privātajiem repozitorijiem!
 dashboard.language=Izvēlēties valodu
 dashboard.language.apply=Pielietot
 dashboard.language.contributors={0} līdzstrādnieki:
@@ -404,8 +402,6 @@ creatorDash.editPackageFlow.pkgIsListed=Pakotne ir izvietota
 creatorDash.editPackageFlow.pkgIsUnlisted=Pakotne nav izvietota
 creatorDash.editPackageFlow.listed=Izvietot šo pakotni
 creatorDash.editPackageFlow.selectProductLink=Izmantot šo produktu
-creatorDash.editPackageFlow.confirmLink=Apstiprināt
-creatorDash.editPackageFlow.confirmUnLink=Apstiprināt
 creatorDash.editPackageFlow.thumbOk=Produkta sīktēls veiksmīgi atjaunināts.
 creatorDash.editPackageFlow.linkOk=Produkts saistīts veiksmīgi.
 creatorDash.editPackageFlow.unlinkOk=Produkts atsaistīts veiksmīgi.
