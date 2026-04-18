@@ -34,6 +34,7 @@ popup.error=Error
 popup.unknownError=Unknown Error
 popup.success=Success
 popup.cancel=Cancel
+popup.restore=Restore
 popup.confirm=Confirm
 popup.disconnect=Disconnect
 popup.suspend=Suspend

@@ -34,6 +34,7 @@ popup.error=Ошибка
 popup.unknownError=Неизвестная ошибка
 popup.success=Успешно
 popup.cancel=Отменить
+popup.restore=Восстановить
 popup.confirm=Подтвердить
 popup.disconnect=Отключить
 popup.suspend=Заморозить
